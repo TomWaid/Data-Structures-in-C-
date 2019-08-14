@@ -1,0 +1,45 @@
+file: input1.txt
+file: attributes1.txt
+file: output1.txt
+file: select
+Opening file input1.txt.
+Number of attributes: 5
+Attribute names: abc def ghi uvw xyz 
+The Doubly Link List is :
+{abc:tjs,def:3nb,ghi:s1m,uvw:gfh,xyz:6kt}
+{abc:h43,def:s0r,ghi:d5l,uvw:pl5,xyz:hoj}
+{abc:gj5,def:fdc,ghi:tn6,uvw:ds7,xyz:cq9}
+{abc:ol2,def:g04,ghi:78o,uvw:7te,xyz:991}
+{abc:qqe,def:qa5,ghi:loh,uvw:p1j,xyz:s3p}
+{abc:jg0,def:64n,ghi:o11,uvw:smj,xyz:jcd}
+{abc:qt8,def:nes,ghi:7no,uvw:pcm,xyz:3ff}
+{abc:hp5,def:22d,ghi:pda,uvw:gat,xyz:rq9}
+{abc:s50,def:lq4,ghi:5h6,uvw:ri5,xyz:9am}
+{abc:7qq,def:d01,ghi:gie,uvw:fqt,xyz:lb9}
+Opening file attributes1.txt.
+0:abc 
+List Reversed
+The Doubly Link List is :
+{abc:7qq,def:d01,ghi:gie,uvw:fqt,xyz:lb9}
+{abc:s50,def:lq4,ghi:5h6,uvw:ri5,xyz:9am}
+{abc:hp5,def:22d,ghi:pda,uvw:gat,xyz:rq9}
+{abc:qt8,def:nes,ghi:7no,uvw:pcm,xyz:3ff}
+{abc:jg0,def:64n,ghi:o11,uvw:smj,xyz:jcd}
+{abc:qqe,def:qa5,ghi:loh,uvw:p1j,xyz:s3p}
+{abc:ol2,def:g04,ghi:78o,uvw:7te,xyz:991}
+{abc:gj5,def:fdc,ghi:tn6,uvw:ds7,xyz:cq9}
+{abc:h43,def:s0r,ghi:d5l,uvw:pl5,xyz:hoj}
+{abc:tjs,def:3nb,ghi:s1m,uvw:gfh,xyz:6kt}
+Number of elements are: 10
+This is the file with the selection sort
+Duong is printing out the output quick
+{abc:7qq,def:d01,ghi:gie,uvw:fqt,xyz:lb9}
+{abc:gj5,def:fdc,ghi:tn6,uvw:ds7,xyz:cq9}
+{abc:h43,def:s0r,ghi:d5l,uvw:pl5,xyz:hoj}
+{abc:hp5,def:22d,ghi:pda,uvw:gat,xyz:rq9}
+{abc:jg0,def:64n,ghi:o11,uvw:smj,xyz:jcd}
+{abc:ol2,def:g04,ghi:78o,uvw:7te,xyz:991}
+{abc:qqe,def:qa5,ghi:loh,uvw:p1j,xyz:s3p}
+{abc:qt8,def:nes,ghi:7no,uvw:pcm,xyz:3ff}
+{abc:s50,def:lq4,ghi:5h6,uvw:ri5,xyz:9am}
+{abc:tjs,def:3nb,ghi:s1m,uvw:gfh,xyz:6kt}
