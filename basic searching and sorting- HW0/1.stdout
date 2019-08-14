@@ -1,0 +1,21 @@
+Opening file myfile.txt.
+Reading and printing numbers.
+
+
+
+Heres where I make it into a string
+
+
+{id:1234567,first:Mary,last:Green}{id:1234568,first:Peter,last:Morgan}{id:1234567,first:Mary,last:Green}
+
+
+Closing file myfile.txt.input=input1.txt
+
+
+
+
+{id:1234567,first:Mary,last:Green}
+{id:1234568,first:Peter,last:Morgan}
+
+
+

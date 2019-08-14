@@ -1,0 +1,22 @@
+Opening file myfile.txt.
+Reading and printing numbers.
+
+
+
+Heres where I make it into a string
+
+
+{a:'test',b:'something',c:'anything'}{a:'text',b:'something',c:'anything'}{a:'how',b:'are',c:'you'}{a:'text',b:'something',c:'anything'}{a:'how',b:'are',c:'you'}{a:'how',b:'are',c:'you'}
+
+
+Closing file myfile.txt.input=input3.txt
+
+
+
+
+{a:'how',b:'are',c:'you'}
+{a:'test',b:'something',c:'anything'}
+{a:'text',b:'something',c:'anything'}
+
+
+
